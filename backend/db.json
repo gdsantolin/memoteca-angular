@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O dia em que você parar de olhar para trás, será o dia em que você irá em direção ao seu futuro.",
+      "autoria": "Anônimo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!teste 2 hohohoho editado!",
+      "autoria": "molito",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "hihonho",
+      "autoria": "papo",
+      "modelo": "modelo2",
+      "id": 9
+    }
+  ]
+}
